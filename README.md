@@ -544,15 +544,6 @@ For detailed guidelines on how to contribute to this project, see our [Contribut
 
 ---
 
-## 👥 Contributors
-
-<div align="center">
-  <a href="https://github.com/SendArcade/solana-app-kit/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=SendArcade/solana-app-kit" alt="Contributors" />
-  </a>
-</div>
-
----
 
 ## 🔒 Security
 
@@ -570,18 +561,6 @@ Common issues and their solutions:
 | **Wallet connection issues** | Ensure you're using the correct provider and have properly configured environment variables |
 | **iOS simulator issues**     | Try resetting the simulator or running `pod install` in the iOS directory                   |
 
----
-
-## 🌐 Community
-
-Join our community to get help, share your projects, and contribute:
-
-[![telegram_badge]][telegram_link]
-
-[telegram_badge]: https://img.shields.io/badge/telegram-❤️-252850?style=plastic&logo=telegram
-[telegram_link]: https://t.me/solanaappkit
-
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/solanaappkit)](https://x.com/solanaappkit)
 
 ---
 
